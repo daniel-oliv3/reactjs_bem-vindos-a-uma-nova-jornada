@@ -41,7 +41,7 @@ Em 2015, o Facebook anunciou o módulo React Native, que em conjunto com o React
     - Site: https://nodejs.org/en
 
 
-- (Terminal VSCode)
+- (**Terminal VSCode**)
 - Verifica a versão do node instalado
 ```
 node -v
@@ -52,6 +52,15 @@ node -v
 npm create vite@latest
 ```
 
+- Instalar as Dependências (`node_modules`)
+```
+npm install
+```
+
+- Rodar o projeto
+```
+npm run dev
+```
 
 
 
@@ -59,12 +68,7 @@ npm create vite@latest
 
 
 
-
-
-
-
-
-
+    
 
 
 
