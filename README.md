@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="...." src="./assets/logo.png" width="60%">
+  <img alt="...." src="./assets/logo.png" width="80%">
 </p>
 
 
@@ -29,17 +29,28 @@ Em 2015, o Facebook anunciou o módulo React Native, que em conjunto com o React
     - Site: https://react.dev/
 
 
+**ViteJS**
+
+- Vite
+    - Site: https://vitejs.dev/
 
 
+**NodeJS**
+
+- Node
+    - Site: https://nodejs.org/en
 
 
+- (Terminal VSCode)
+- Verifica a versão do node instalado
+```
+node -v
+```
 
-
-
-
-
-
-
+- Criar uma aplicação com o ViteJS
+```
+npm create vite@latest
+```
 
 
 
