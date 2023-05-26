@@ -23,6 +23,8 @@ Em 2015, o Facebook anunciou o módulo React Native, que em conjunto com o React
 - Fonte: https://pt.wikipedia.org/wiki/React_(JavaScript)
 
 
+### 1 - BEM-VINDOS A UMA NOVA JORNADA
+
 **ReactJS**
 
 - React
@@ -63,17 +65,37 @@ npm run dev
 ```
 
 
+- Exemplo
+    - app-react_01
 
 
 
-
+### 2 - O NOSSO PRIMEIRO REACT COMPONENT
 
     
+- Criar uma aplicação com o ViteJS
+```
+npm create vite@latest
+```
+
+- Instalar as Dependências (`node_modules`)
+```
+npm install
+```
+
+- Rodar o projeto
+```
+npm run dev
+```
 
 
+**Your First Component**
+
+- Site: https://react.dev/learn/your-first-component
 
 
-
+- Exemplo
+    - app-react_02
 
 
 
