@@ -99,10 +99,25 @@ npm run dev
 
 
 
+### 3 - MAIS DETALHES SOBRE COMPONENTES
 
+- Criar uma aplicação com o ViteJS
+```
+npm create vite@latest
+```
 
+- Instalar as Dependências (`node_modules`)
+```
+npm install
+```
 
+- Rodar o projeto
+```
+npm run dev
+```
 
+- Exemplo
+    - app-react_03
 
 
 
