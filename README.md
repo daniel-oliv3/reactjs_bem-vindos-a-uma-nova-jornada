@@ -117,7 +117,7 @@ npm run dev
 ```
 
 - Exemplo
-    - app-react_04
+    - app-react_03
 
 
 
@@ -125,7 +125,7 @@ npm run dev
 ### 4 - COMPONENTES DENTRO DE COMPONENTES
 
 - Exemplo
-    - app-react_03
+    - app-react_04
 
 
 
