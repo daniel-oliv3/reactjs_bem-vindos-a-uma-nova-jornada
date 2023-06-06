@@ -137,7 +137,10 @@ npm run dev
 
 
 
+### 6 - COMO APLICAR CSS NOS COMPONENTES
 
+- Exemplo
+    - app-react_06
 
 
 
