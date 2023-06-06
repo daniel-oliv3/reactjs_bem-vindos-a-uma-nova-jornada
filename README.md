@@ -66,7 +66,7 @@ npm run dev
 
 
 - Exemplo
-    - app-react_01
+    - app-reactjs_01
 
 
 
@@ -95,7 +95,7 @@ npm run dev
 
 
 - Exemplo
-    - app-react_02
+    - app-reactjs_02
 
 
 
@@ -117,7 +117,7 @@ npm run dev
 ```
 
 - Exemplo
-    - app-react_03
+    - app-reactjs_03
 
 
 
@@ -125,14 +125,14 @@ npm run dev
 ### 4 - COMPONENTES DENTRO DE COMPONENTES
 
 - Exemplo
-    - app-react_04
+    - app-reactjs_04
 
 
 ### 5 - APRESENTAR DADOS DE JS NO JSX
 
 
 - Exemplo
-    - app-react_05
+    - app-reactjs_05
 
 
 
@@ -140,11 +140,12 @@ npm run dev
 ### 6 - COMO APLICAR CSS NOS COMPONENTES
 
 - Exemplo
-    - app-react_06
+    - app-reactjs_06
 
 
+### 7 - REACT PROPS
 
 
-
-
+- Exemplo
+    - app-reactjs_07
 
