@@ -149,3 +149,30 @@ npm run dev
 - Exemplo
     - app-reactjs_07
 
+
+
+### 8 - MAIS DETALHES SOBRE REACT PROPS
+
+
+- Exemplo
+    - app-reactjs_08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
