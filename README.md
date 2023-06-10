@@ -159,9 +159,14 @@ npm run dev
 
 
 
+### 9 - A MULTIPLICAÇÃO DE COMPONENTES
 
 
+- **Aviso**: Cada filho em uma lista deve ter um prop "*chave*" (key) exclusivo.
 
+
+- Exemplo
+    - app-reactjs_09
 
 
 
