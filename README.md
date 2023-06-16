@@ -274,5 +274,17 @@ git checkout master
 ### 13 - ADICIONAR TODO O PROJETO NO GITHUB COM VÁRIAS BRANCHES
 
 
+**Git**
+
+- Remote Origin
+```
+git remote add origin https://github.com/daniel-oliv3/reactjs_bem-vindos-a-uma-nova-jornada.git
+```
+
+- Puchar para o repósitorio remoto
+```
+git push -u origin master
+```
+
 - Exemplo
     - app-reactjs_13
