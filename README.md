@@ -259,7 +259,10 @@ git branch 01_hooks
 git checkout 01_hooks
 ```
 
-
+- Mudar para a Master
+```
+git checkout master
+```
 
 
 
