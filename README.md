@@ -189,3 +189,85 @@ npm run dev
     - app-reactjs_11
 
 
+
+
+
+### 12 - NOVA REORGANIZAÇÃO DO PROJETO E PREPARAÇÃO DO GIT
+
+
+- .gitignore
+    - node_modules
+    - package-lock.json
+
+
+**Git**
+
+- Verifica se ja tem o git instalado
+```
+git -v
+```
+
+- Inicia o repósitorio git
+```
+git init
+```
+
+- Verifica o status atual do projeto
+```
+git status
+```
+
+**Untracked files**
+
+- Adicionar os arquivos Untracked
+```
+git add .
+```
+
+**Commit**
+
+*Author Identity*
+- Login (email)
+```
+git config --global user.email "seuemail@gmail.com"
+```
+
+- Nome (User Name)
+```
+git config --global user.name "John Doe"
+```
+
+- Commitar o projeto
+```
+git commit -m "hook state 01"
+```
+
+- Git Log (verifica os commits atuais)
+```
+git log
+```
+
+**Branch**
+
+- Criando uma Branch
+```
+git branch 01_hooks
+```
+
+- Mudar a Branch (para 01_hooks)
+```
+git checkout 01_hooks
+```
+
+
+
+
+
+
+
+- Exemplo
+    - app-reactjs_12
+
+
+
+
