@@ -288,7 +288,7 @@ git push -u origin master
 
 *Branche*
 
-- Puchar para o repositório remoto
+- Enviar para o repositório remoto
 ```
 git push -u origin 01_hooks
 ```
@@ -314,9 +314,46 @@ git clone https://github.com/sys4soft/react_next_hooks.git
 
 
 
+### 15 - COMO EXECUTAR FUNÇÃO COM PARÂMETROS ASSOCIADA A UM EVENTO
+
+*Branche*
+
+- Criação da branch
+```
+git branch 02_hooks
+```
+
+- Mudar a branch
+```
+git checkout 02_hooks
+```
+
+**Untracked files**
+
+- Adicionar os arquivos Untracked
+```
+git add .
+```
+
+- Commitar o projeto
+```
+git commit -m "hook state 02"
+```
+
+- Enviar para o repositório remoto
+```
+git push -u origin 02_hooks
+```
+
+- Verifica o status atual do projeto
+```
+git status
+```
 
 
 
+- Exemplo
+    - app-reactjs_15
 
 
 
