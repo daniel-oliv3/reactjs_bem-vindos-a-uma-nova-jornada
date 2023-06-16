@@ -286,5 +286,59 @@ git remote add origin https://github.com/daniel-oliv3/reactjs_bem-vindos-a-uma-n
 git push -u origin master
 ```
 
+*Branche*
+
+- Puchar para o repósitorio remoto
+```
+git push -u origin 01_hooks
+```
+
 - Exemplo
     - app-reactjs_13
+
+
+
+
+### 14 - CLONAR O REPOSITÓRIO DO GITHUB PARA O AMBIENTE LOCAL
+
+**Clone**
+
+- Clonar um repósitorio (Exemplo)
+```
+git clone https://github.com/sys4soft/react_next_hooks.git
+```
+
+
+- Exemplo
+    - app-reactjs_14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
