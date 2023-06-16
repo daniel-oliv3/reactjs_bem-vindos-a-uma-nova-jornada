@@ -207,7 +207,7 @@ npm run dev
 git -v
 ```
 
-- Inicia o repósitorio git
+- Inicia o repositório git
 ```
 git init
 ```
@@ -281,14 +281,14 @@ git checkout master
 git remote add origin https://github.com/daniel-oliv3/reactjs_bem-vindos-a-uma-nova-jornada.git
 ```
 
-- Puchar para o repósitorio remoto
+- Puchar para o repositório remoto
 ```
 git push -u origin master
 ```
 
 *Branche*
 
-- Puchar para o repósitorio remoto
+- Puchar para o repositório remoto
 ```
 git push -u origin 01_hooks
 ```
@@ -303,7 +303,7 @@ git push -u origin 01_hooks
 
 **Clone**
 
-- Clonar um repósitorio (Exemplo)
+- Clonar um repositório (Exemplo)
 ```
 git clone https://github.com/sys4soft/react_next_hooks.git
 ```
