@@ -266,11 +266,13 @@ git checkout master
 
 
 
-
-
 - Exemplo
     - app-reactjs_12
 
 
 
+### 13 - ADICIONAR TODO O PROJETO NO GITHUB COM VÁRIAS BRANCHES
 
+
+- Exemplo
+    - app-reactjs_13
