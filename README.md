@@ -361,6 +361,37 @@ git status
 
 ### 16 - EXERCÍCIO COM USESTATE
 
+*Branche*
+
+- Criação da branch
+```
+git branch 03_hooks
+```
+
+- Mudar a branch
+```
+git checkout 03_hooks
+```
+
+- Adicionar os arquivos Untracked
+```
+git add .
+```
+
+- Commitar o projeto
+```
+git commit -m "hook state 03"
+```
+
+- Enviar para o repositório remoto
+```
+git push -u origin 03_hooks
+```
+
+- Verifica o status atual do projeto
+```
+git status
+```
 
 - Exemplo
     - app-reactjs_16
