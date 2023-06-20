@@ -399,11 +399,52 @@ git status
 
 
 
+### 17 - EXERCÍCIO 02 COM USESTATE
+
+
+- Criar um componente que vai apresentar 3 contadores criados a partir do mesmo componente
+    - Apresentar esses componentes lado a lado
+    - O primeiro componente deve inicrementar e decrementar de 1 em 1
+    - O segundo de 5 em 5
+    - O terceiro de 10 em 10
+
+
+*Branche*
+
+- Criação da branch
+```
+git branch 04_hooks
+```
+
+- Mudar a branch
+```
+git checkout 04_hooks
+```
+
+- Adicionar os arquivos Untracked
+```
+git add .
+```
+
+- Commitar o projeto
+```
+git commit -m "hook state 04"
+```
+
+- Enviar para o repositório remoto
+```
+git push -u origin 04_hooks
+```
+
+- Verifica o status atual do projeto
+```
+git status
+```
 
 
 
-
-
+- Exemplo
+    - app-reactjs_17
 
 
 
