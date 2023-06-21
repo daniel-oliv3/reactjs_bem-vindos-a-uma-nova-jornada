@@ -124,12 +124,21 @@ npm run dev
 
 ### 4 - COMPONENTES DENTRO DE COMPONENTES
 
+- Roda o projeto
+```
+npm run dev
+```
+
 - Exemplo
     - app-reactjs_04
 
 
 ### 5 - APRESENTAR DADOS DE JS NO JSX
 
+- Roda o projeto
+```
+npm run dev
+```
 
 - Exemplo
     - app-reactjs_05
@@ -139,12 +148,21 @@ npm run dev
 
 ### 6 - COMO APLICAR CSS NOS COMPONENTES
 
+- Roda o projeto
+```
+npm run dev
+```
+
 - Exemplo
     - app-reactjs_06
 
 
 ### 7 - REACT PROPS
 
+- Roda o projeto
+```
+npm run dev
+```
 
 - Exemplo
     - app-reactjs_07
@@ -153,6 +171,10 @@ npm run dev
 
 ### 8 - MAIS DETALHES SOBRE REACT PROPS
 
+- Roda o projeto
+```
+npm run dev
+```
 
 - Exemplo
     - app-reactjs_08
@@ -161,6 +183,10 @@ npm run dev
 
 ### 9 - A MULTIPLICAÇÃO DE COMPONENTES
 
+- Roda o projeto
+```
+npm run dev
+```
 
 - **Aviso**: Cada filho em uma lista deve ter um prop "*chave*" (key) exclusivo.
 
@@ -173,6 +199,10 @@ npm run dev
 
 ### 10 - INTRODUÇÃO AOS REACT HOOKS USESTATE
 
+- Roda o projeto
+```
+npm run dev
+```
 
 - API Reference
     - Site: https://react.dev/reference/react
@@ -184,6 +214,10 @@ npm run dev
 
 ### 11 - REORGANIZAÇÃO DO PROJETO E EXEMPLO COM USESTATE
 
+- Roda o projeto
+```
+npm run dev
+```
 
 - Exemplo
     - app-reactjs_11
@@ -193,6 +227,11 @@ npm run dev
 
 
 ### 12 - NOVA REORGANIZAÇÃO DO PROJETO E PREPARAÇÃO DO GIT
+
+- Roda o projeto
+```
+npm run dev
+```
 
 
 - .gitignore
@@ -273,6 +312,11 @@ git checkout master
 
 ### 13 - ADICIONAR TODO O PROJETO NO GITHUB COM VÁRIAS BRANCHES
 
+- Roda o projeto
+```
+npm run dev
+```
+
 
 **Git**
 
@@ -301,6 +345,12 @@ git push -u origin 01_hooks
 
 ### 14 - CLONAR O REPOSITÓRIO DO GITHUB PARA O AMBIENTE LOCAL
 
+- Roda o projeto
+```
+npm run dev
+```
+
+
 **Clone**
 
 - Clonar um repositório (Exemplo)
@@ -315,6 +365,12 @@ git clone https://github.com/sys4soft/react_next_hooks.git
 
 
 ### 15 - COMO EXECUTAR FUNÇÃO COM PARÂMETROS ASSOCIADA A UM EVENTO
+
+- Roda o projeto
+```
+npm run dev
+```
+
 
 *Branche*
 
@@ -360,6 +416,12 @@ git status
 
 
 ### 16 - EXERCÍCIO COM USESTATE
+
+- Roda o projeto
+```
+npm run dev
+```
+
 
 *Branche*
 
@@ -409,6 +471,12 @@ git status
     - O terceiro de 10 em 10
 
 
+- Roda o projeto
+```
+npm run dev
+```
+
+
 *Branche*
 
 - Criação da branch
@@ -449,9 +517,52 @@ git status
 
 
 
+### 18 - EXERCÍCIO 03 COM USESTATE
+
+- Criar um componente que vai apresentar um UseState (valor)
+- Criar outro componente, a ser apresentado dentro do componente anterior, que vai ter
+    - um botão que vai atualizar o useState do componente "pai"
+
+- Roda o projeto
+```
+npm run dev
+```
 
 
+*Branche*
 
+- Criação da branch
+```
+git branch 05_hooks
+```
+
+- Mudar a branch
+```
+git checkout 05_hooks
+```
+
+- Adicionar os arquivos Untracked
+```
+git add .
+```
+
+- Commitar o projeto
+```
+git commit -m "hook state 05"
+```
+
+- Enviar para o repositório remoto
+```
+git push -u origin 05_hooks
+```
+
+- Verifica o status atual do projeto
+```
+git status
+```
+
+- Exemplo
+    - app-reactjs_18
 
 
 
