@@ -1,25 +1,24 @@
 import { useState } from "react";
+import UseState_05a from "./UseState_05a";
 
-
+// Componente Pai
 function UseState_05() {
 
     const [valor, setValor] = useState(0);
 
-    function aumentar(){
-        setValor(v => v +1);
-    }
-
-    function diminuir(){
-        setValor(v => v -1);
+    //Função atualizar
+    function atualizarValor(){
+        setValor(1000);
     }
 
     return (
       <>
-          <h3>UseState_05</h3>
+          <h3>Exercício 03</h3>
+          <h3>Valor: <strong>{valor}</strong></h3>
 
-          <p>Valor: {valor}</p>
-          <button onClick={aumentar}>Aumentar</button>
-          <button onClick={diminuir}>Diminuir</button>
+            <hr/>
+
+          <UseState_05a funcao={atualizarValor} />
       </>
     )
   }
