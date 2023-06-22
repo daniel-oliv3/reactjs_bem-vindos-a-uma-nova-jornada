@@ -567,9 +567,35 @@ git status
 
 
 
+### 19 - EXERCÍCIO 04 COM USESTATE
+
+- Um componente PAI vai receber atualização de valores de dois componentes FILHOS.
+- Esses componentes filhos são instâncias do mesmo componente contador (Inc, Dec)
+- Um dos componentes incrementa e decrementa de 5 em 5 e o outro de 10 em 10.
+- No componente pai, vai ser apresentado o resultado da adição dos valores controlados pelos dois componentes filhos
+
+```html
+<!-- 
+----- Execício 04 -----
+
+- (pai)
+valor: 1000
+
+- Filhos
+<b- b+> (5 em 5)
+<b- b+> (10 em 10)
+
+-->
+```
 
 
+- Roda o projeto
+```
+npm run dev
+```
 
+- Exemplo
+    - app-reactjs_19
 
 
 
