@@ -614,7 +614,24 @@ npm run dev
     - app-reactjs_20
 
 
+### 21 - EXERCÍCIO 06 COM USESTATE
 
+- Criar um componente que contem um objeto clientes coom as seguintes propriedades:
+{
+    Nome
+    Apelido
+    Cidade
+    Email
+}
+
+- O componente tem que ter 4 botões
+- Cada botão altera o valor de cada uma das propriedades individualmente
+- SEM EXECUTAR FUNÇÕES INDIRETAS
+- Os valores devem ser apresentados
+
+
+- Exemplo
+    - app-reactjs_21
 
 
 
