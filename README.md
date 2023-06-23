@@ -603,9 +603,15 @@ npm run dev
 
 
 
+### 20 - EXERCÍCIO 05 COM USESTATE
 
+- Um componente PAI tem 3 componentes de inc e dec (a mesma instância)
+- O componente pai tem um state que é um array de valores númericos
+- Cada componente vai comtrolar um valor desse array
+- Os três valores do array devem ser apresentados no componente pai
 
-
+- Exemplo
+    - app-reactjs_20
 
 
 
