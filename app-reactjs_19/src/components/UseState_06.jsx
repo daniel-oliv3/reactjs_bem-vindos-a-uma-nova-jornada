@@ -11,22 +11,22 @@ function UseState_06() {
 
   //Função decrementa 5 em 5
   function decValor1() {
-    setValor1((old) => old - 5);
+    setValor1(old => old - 5);
   }
 
   //Função incrementa 5 em 5
   function incValor1() {
-    setValor1((old) => old + 5);
+    setValor1(old => old + 5);
   }
 
   //Função decrementa 10 em 10
   function decValor2() {
-    setValor2((old) => old - 10);
+    setValor2(old => old - 10);
   }
 
   //Função incrementa 10 em 10
   function incValor2() {
-    setValor2((old) => old + 10);
+    setValor2(old => old + 10);
   }
 
   return (
