@@ -639,10 +639,15 @@ npm run dev
 
 
 
+### 22 - EXERCÍCIO 07 COM USESTATE
+
+- Apresentar um parágrafo com "Usuario logado"
+- Um botão vai controlar se o usuario está logado ou nçao (fake)
+- alterando o valor de um state.
 
 
-
-
+- Exemplo
+    - app-reactjs_22
 
 
 
