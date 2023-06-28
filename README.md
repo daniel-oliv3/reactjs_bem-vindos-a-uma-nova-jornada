@@ -653,5 +653,12 @@ npm run dev
 
 
 
+### 23 - EXERCÍCIO 08 COM USESTATE
 
+- Selecionar uma opção num select (com 3 opções)
+- Apresentar o componente correspondente
+
+
+- Exemplo
+    - app-reactjs_23
 
