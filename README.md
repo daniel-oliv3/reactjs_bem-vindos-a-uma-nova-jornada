@@ -662,3 +662,29 @@ npm run dev
 - Exemplo
     - app-reactjs_23
 
+
+
+
+### 24 - EXERCÍCIO 09 COM USESTATE
+
+- Temos um botão e um parágrafo
+- O parágrafo tem uma classe de CSS (paragrafo)
+- Adicionamente tem outra classe (classUm ou classDois)
+- A ideia é o botão alternar entre classUm e classDois, mantendo a classe parágrafo
+
+- NOTA: Obviamente, o resultado da alternancia de classes deve refletir-se no aspecto visual do elemento
+
+
+
+- Exemplo
+    - app-reactjs_24
+
+
+
+
+
+
+
+
+
+
