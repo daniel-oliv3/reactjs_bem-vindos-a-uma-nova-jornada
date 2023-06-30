@@ -685,6 +685,11 @@ npm run dev
 
 
 
+###  25 - EXERCÍCIO 10 COM USESTATE
+
+- Vamos criar um componente que vai apresentar condicionalmente um componente A ou B no seu interior.
+- A apresentação do componente A ou B dever ser controlada pelo click de um botão
 
 
-
+- Exemplo
+    - app-reactjs_25
