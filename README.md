@@ -704,4 +704,9 @@ npm run dev
     - app-reactjs_26
 
 
+###  27 - EXERCÍCIO 12 COM USESTATE
 
+-
+
+- Exemplo
+    - app-reactjs_27
