@@ -716,13 +716,16 @@ npm run dev
 
 ###  28 - INTRODUÇÃO AO USEREF
 
--
 
 - Exemplo
     - app-reactjs_28
 
 
 
+### 29 - INTRODUÇÃO AO USEEFFECT
+
+- Exemplo
+    - app-reactjs_29
 
 
 
