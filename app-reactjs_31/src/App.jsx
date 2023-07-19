@@ -14,7 +14,8 @@
 // import UseState_14 from "./components/UseState_14";
 // import UseState_15 from "./components/UseState_15";
 // import UseRef_16 from "./components/UseRef_16";
-import UseEffect_17 from "./components/UseEffect_17";
+// import UseEffect_17 from "./components/UseEffect_17";
+import UseEffect_18 from "./components/UseEffect_18";
 
 
 
@@ -41,8 +42,9 @@ function App() {
       {/* <UseState_14 /> */}
       {/* <UseState_15 /> */}
       {/* <UseRef_16 /> */}
+      {/* <UseEffect_17 /> */}
       
-      <UseEffect_17 />
+      <UseEffect_18 />
 
 
     </>
