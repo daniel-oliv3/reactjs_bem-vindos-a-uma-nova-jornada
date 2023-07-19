@@ -736,7 +736,10 @@ npm run dev
 
 
 
+### 30 - EXERCÍCIO 02 COM USEEFFECT
 
+- Exemplo
+    - app-reactjs_31
 
 
 
