@@ -745,6 +745,12 @@ npm run dev
 
 ### 32 - EXERCÍCIO 03 COM USEEFFECT
 
+**REST Countrie**
+
+- REST Countrie
+    - Site: https://restcountries.com/
+    - All: https://restcountries.com/v3.1/all
+
 - Exemplo
     - app-reactjs_32
 
